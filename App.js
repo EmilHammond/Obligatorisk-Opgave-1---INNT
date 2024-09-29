@@ -18,12 +18,7 @@ import ProfileInfo from './Components/ProfileInfo';
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDovRFeiHFj0NzjQF6myIMWGA8PKxzDqOA",
-  authDomain: "reframe-56670.firebaseapp.com",
-  projectId: "reframe-56670",
-  storageBucket: "reframe-56670.appspot.com",
-  messagingSenderId: "164831121604",
-  appId: "1:164831121604:web:e917bbe2179e96b22cb991",
+  
 };
 
 // Initialize Firebase if it hasn't been initialized already
