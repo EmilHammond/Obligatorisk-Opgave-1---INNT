@@ -1,0 +1,1 @@
+Jeg har slettet min Firebase config, så derfor virker den ikke. Hvis man vil bruge og se databasen, skal man bruge sin egen firebase config. Derudover ligger billederne også lokalt på min egen Firebase Storage, så derfor kommer der ikke billeder op på product siden.
